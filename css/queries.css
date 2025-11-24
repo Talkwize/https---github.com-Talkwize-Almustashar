@@ -192,7 +192,6 @@
   .grid-3-cols,
   .grid--4-cols {
     grid-template-columns: repeat(2, 1fr);
-    
   }
 
   .diets {
@@ -240,6 +239,9 @@
     grid-template-columns: 1fr;
   }
 
+  .grid-3-cols {
+    text-align: center;
+  }
   .btn,
   .btn:link,
   .btn:visited {
